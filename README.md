@@ -7,9 +7,9 @@ This Laravel 12 Point of Sale application demonstrates database-backed customer 
 
 ## Student Information
 
-- **Name:** [Juraly Siray]
-- **Section:** [BSIT-DW31-1]
-- **Professor:** [Tio, Rene Christopher]
+- **Name:** Juraly Siray
+- **Section:** BSIT-DW31-1
+- **Professor:** Tio, Rene Christopher
 
 ## Features Implemented
 
